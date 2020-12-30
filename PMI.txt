@@ -1,0 +1,217 @@
+"OOP"
+{
+"loves algosi"
+{
+"has tail"
+{
+"fast"
+{
+"Ilya Stepanov"
+}
+{
+"python"
+}
+}
+{
+"your life"
+{
+"maincraft"
+}
+{
+"not alive"
+{
+"inheritance"
+}
+{
+"nelena"
+}
+}
+}
+}
+{
+"old"
+{
+"tries to hide everything"
+{
+"encapsulation"
+}
+{
+"can dead"
+{
+"IVT"
+}
+{
+"not alive"
+{
+"java"
+}
+{
+"ded"
+}
+}
+}
+}
+{
+"mesherin"
+}
+}
+}
+{
+"halyava"
+{
+"2D"
+{
+"oneme"
+}
+{
+"adequate"
+{
+"algosy"
+}
+{
+"made from cardboard"
+{
+"has windows"
+{
+"hostel"
+}
+{
+"box"
+}
+}
+{
+"drunk"
+{
+"always drunk"
+{
+"MTUSI"
+}
+{
+"RT"
+}
+}
+{
+"arkasha"
+}
+}
+}
+}
+}
+{
+"jopa"
+{
+"hospitality"
+{
+"in moscow"
+{
+"hach palatka"
+}
+{
+"animal"
+{
+"chupocabra"
+}
+{
+"kirov"
+}
+}
+}
+{
+"human resembling"
+{
+"passed session"
+{
+"session"
+}
+{
+"usefull"
+{
+"fridge"
+}
+{
+"B05-032"
+}
+}
+}
+{
+"delicious food"
+{
+"shaverma"
+}
+{
+"lives with you"
+{
+"tarakan"
+}
+{
+"ivanova"
+}
+}
+}
+}
+}
+{
+"wooden"
+{
+"could be pray on"
+{
+"wooden statuette of raigor"
+}
+{
+"door"
+}
+}
+{
+"cute"
+{
+"drinkable"
+{
+"coffee"
+}
+{
+"made of cloth"
+{
+"tapestry"
+}
+{
+"lizard-alike"
+{
+"skyrim"
+}
+{
+"elf"
+{
+"legolas"
+}
+{
+"this"
+{
+"Akinator"
+}
+{
+"poltorashka"
+}
+}
+}
+}
+}
+}
+{
+"lack of brains"
+{
+"dolbojob"
+}
+{
+"áontinues on musatych"
+{
+"sleep"
+}
+{
+"musatych"
+}
+}
+}
+}
+}
+}
+}

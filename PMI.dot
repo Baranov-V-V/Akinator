@@ -1,0 +1,147 @@
+digraph structs {
+        node [shape="record", style="filled"];node000000000079b500 [label ="<answer> musatych", color="grey14", fillcolor="orchid"]
+node000000000079adb0 [label ="<question> Is it áontinues on musatych?", color="grey14", fillcolor="seagreen3"]
+node000000000079ade0 [label ="<answer> sleep", color="grey14", fillcolor="orchid"]
+node000000000079ad20 [label ="<question> Is it lack of brains?", color="grey14", fillcolor="seagreen3"]
+node000000000079ad50 [label ="<answer> dolbojob", color="grey14", fillcolor="orchid"]
+node000000000079b080 [label ="<question> Is it cute?", color="grey14", fillcolor="seagreen3"]
+node000000000079ac60 [label ="<answer> poltorashka", color="grey14", fillcolor="orchid"]
+node000000000079b0b0 [label ="<question> Is it this?", color="grey14", fillcolor="seagreen3"]
+node000000000079b0e0 [label ="<answer> Akinator", color="grey14", fillcolor="orchid"]
+node000000000079abd0 [label ="<question> Is it elf?", color="grey14", fillcolor="seagreen3"]
+node000000000079b110 [label ="<answer> legolas", color="grey14", fillcolor="orchid"]
+node000000000079ab40 [label ="<question> Is it lizard-alike?", color="grey14", fillcolor="seagreen3"]
+node000000000079b050 [label ="<answer> skyrim", color="grey14", fillcolor="orchid"]
+node000000000079aa80 [label ="<question> Is it made of cloth?", color="grey14", fillcolor="seagreen3"]
+node000000000079aab0 [label ="<answer> tapestry", color="grey14", fillcolor="orchid"]
+node000000000079b020 [label ="<question> Is it drinkable?", color="grey14", fillcolor="seagreen3"]
+node000000000079aba0 [label ="<answer> coffee", color="grey14", fillcolor="orchid"]
+node000000000079b1a0 [label ="<question> Is it wooden?", color="grey14", fillcolor="seagreen3"]
+node000000000079ab10 [label ="<answer> door", color="grey14", fillcolor="orchid"]
+node000000000079b1d0 [label ="<question> Is it could be pray on?", color="grey14", fillcolor="seagreen3"]
+node000000000079aff0 [label ="<answer> wooden statuette of raigor", color="grey14", fillcolor="orchid"]
+node000000000079ab70 [label ="<question> Is it jopa?", color="grey14", fillcolor="seagreen3"]
+node000000000079afc0 [label ="<answer> ivanova", color="grey14", fillcolor="orchid"]
+node000000000079acf0 [label ="<question> Is it lives with you?", color="grey14", fillcolor="seagreen3"]
+node000000000079ae10 [label ="<answer> tarakan", color="grey14", fillcolor="orchid"]
+node000000000079ae70 [label ="<question> Is it delicious food?", color="grey14", fillcolor="seagreen3"]
+node000000000079ac30 [label ="<answer> shaverma", color="grey14", fillcolor="orchid"]
+node000000000079af60 [label ="<question> Is it human resembling?", color="grey14", fillcolor="seagreen3"]
+node000000000079b200 [label ="<answer> B05-032", color="grey14", fillcolor="orchid"]
+node000000000079acc0 [label ="<question> Is it usefull?", color="grey14", fillcolor="seagreen3"]
+node000000000079ac90 [label ="<answer> fridge", color="grey14", fillcolor="orchid"]
+node000000000079b170 [label ="<question> Is it passed session?", color="grey14", fillcolor="seagreen3"]
+node000000000079af90 [label ="<answer> session", color="grey14", fillcolor="orchid"]
+node000000000079b140 [label ="<question> Is it hospitality?", color="grey14", fillcolor="seagreen3"]
+node000000000079ad80 [label ="<answer> kirov", color="grey14", fillcolor="orchid"]
+node000000000079aae0 [label ="<question> Is it animal?", color="grey14", fillcolor="seagreen3"]
+node000000000079af00 [label ="<answer> chupocabra", color="grey14", fillcolor="orchid"]
+node000000000079af30 [label ="<question> Is it in moscow?", color="grey14", fillcolor="seagreen3"]
+node000000000079aed0 [label ="<answer> hach palatka", color="grey14", fillcolor="orchid"]
+node000000000079a7f0 [label ="<question> Is it halyava?", color="grey14", fillcolor="seagreen3"]
+node000000000079ae40 [label ="<answer> arkasha", color="grey14", fillcolor="orchid"]
+node000000000079a9d0 [label ="<question> Is it drunk?", color="grey14", fillcolor="seagreen3"]
+node000000000079ac00 [label ="<answer> RT", color="grey14", fillcolor="orchid"]
+node000000000079a6a0 [label ="<question> Is it always drunk?", color="grey14", fillcolor="seagreen3"]
+node000000000079aea0 [label ="<answer> MTUSI", color="grey14", fillcolor="orchid"]
+node000000000079a700 [label ="<question> Is it made from cardboard?", color="grey14", fillcolor="seagreen3"]
+node000000000079a940 [label ="<answer> box", color="grey14", fillcolor="orchid"]
+node000000000079a6d0 [label ="<question> Is it has windows?", color="grey14", fillcolor="seagreen3"]
+node000000000079a8e0 [label ="<answer> hostel", color="grey14", fillcolor="orchid"]
+node000000000079a880 [label ="<question> Is it adequate?", color="grey14", fillcolor="seagreen3"]
+node000000000079a8b0 [label ="<answer> algosy", color="grey14", fillcolor="orchid"]
+node000000000079a7c0 [label ="<question> Is it 2D?", color="grey14", fillcolor="seagreen3"]
+node000000000079a760 [label ="<answer> oneme", color="grey14", fillcolor="orchid"]
+node00000000006b6290 [label ="<question> Is it OOP?", color="grey14", fillcolor="seagreen3"]
+node000000000079a850 [label ="<answer> mesherin", color="grey14", fillcolor="orchid"]
+node000000000079a5f0 [label ="<question> Is it old?", color="grey14", fillcolor="seagreen3"]
+node000000000079a9a0 [label ="<answer> ded", color="grey14", fillcolor="orchid"]
+node000000000079a790 [label ="<question> Is it not alive?", color="grey14", fillcolor="seagreen3"]
+node000000000079a670 [label ="<answer> java", color="grey14", fillcolor="orchid"]
+node000000000079a730 [label ="<question> Is it can dead?", color="grey14", fillcolor="seagreen3"]
+node000000000079a970 [label ="<answer> IVT", color="grey14", fillcolor="orchid"]
+node000000000079a820 [label ="<question> Is it tries to hide everything?", color="grey14", fillcolor="seagreen3"]
+node000000000079a910 [label ="<answer> encapsulation", color="grey14", fillcolor="orchid"]
+node00000000006b62c0 [label ="<question> Is it loves algosi?", color="grey14", fillcolor="seagreen3"]
+node000000000079a5c0 [label ="<answer> nelena", color="grey14", fillcolor="orchid"]
+node000000000079a560 [label ="<question> Is it not alive?", color="grey14", fillcolor="seagreen3"]
+node000000000079a590 [label ="<answer> inheritance", color="grey14", fillcolor="orchid"]
+node00000000006b63b0 [label ="<question> Is it your life?", color="grey14", fillcolor="seagreen3"]
+node000000000079a530 [label ="<answer> maincraft", color="grey14", fillcolor="orchid"]
+node00000000006b62f0 [label ="<question> Is it has tail?", color="grey14", fillcolor="seagreen3"]
+node00000000006b6380 [label ="<answer> python", color="grey14", fillcolor="orchid"]
+node00000000006b6320 [label ="<question> Is it fast?", color="grey14", fillcolor="seagreen3"]
+node00000000006b6350 [label ="<answer> Ilya Stepanov", color="grey14", fillcolor="orchid"]
+    node000000000079adb0:sw -> node000000000079b500 [color="navy"];
+    node000000000079adb0:se -> node000000000079ade0 [color="crimson"];
+    node000000000079ad20:sw -> node000000000079adb0 [color="navy"];
+    node000000000079ad20:se -> node000000000079ad50 [color="crimson"];
+    node000000000079b080:sw -> node000000000079ad20 [color="navy"];
+    node000000000079b080:se -> node000000000079b020 [color="crimson"];
+    node000000000079b0b0:sw -> node000000000079ac60 [color="navy"];
+    node000000000079b0b0:se -> node000000000079b0e0 [color="crimson"];
+    node000000000079abd0:sw -> node000000000079b0b0 [color="navy"];
+    node000000000079abd0:se -> node000000000079b110 [color="crimson"];
+    node000000000079ab40:sw -> node000000000079abd0 [color="navy"];
+    node000000000079ab40:se -> node000000000079b050 [color="crimson"];
+    node000000000079aa80:sw -> node000000000079ab40 [color="navy"];
+    node000000000079aa80:se -> node000000000079aab0 [color="crimson"];
+    node000000000079b020:sw -> node000000000079aa80 [color="navy"];
+    node000000000079b020:se -> node000000000079aba0 [color="crimson"];
+    node000000000079b1a0:sw -> node000000000079b080 [color="navy"];
+    node000000000079b1a0:se -> node000000000079b1d0 [color="crimson"];
+    node000000000079b1d0:sw -> node000000000079ab10 [color="navy"];
+    node000000000079b1d0:se -> node000000000079aff0 [color="crimson"];
+    node000000000079ab70:sw -> node000000000079b1a0 [color="navy"];
+    node000000000079ab70:se -> node000000000079b140 [color="crimson"];
+    node000000000079acf0:sw -> node000000000079afc0 [color="navy"];
+    node000000000079acf0:se -> node000000000079ae10 [color="crimson"];
+    node000000000079ae70:sw -> node000000000079acf0 [color="navy"];
+    node000000000079ae70:se -> node000000000079ac30 [color="crimson"];
+    node000000000079af60:sw -> node000000000079ae70 [color="navy"];
+    node000000000079af60:se -> node000000000079b170 [color="crimson"];
+    node000000000079acc0:sw -> node000000000079b200 [color="navy"];
+    node000000000079acc0:se -> node000000000079ac90 [color="crimson"];
+    node000000000079b170:sw -> node000000000079acc0 [color="navy"];
+    node000000000079b170:se -> node000000000079af90 [color="crimson"];
+    node000000000079b140:sw -> node000000000079af60 [color="navy"];
+    node000000000079b140:se -> node000000000079af30 [color="crimson"];
+    node000000000079aae0:sw -> node000000000079ad80 [color="navy"];
+    node000000000079aae0:se -> node000000000079af00 [color="crimson"];
+    node000000000079af30:sw -> node000000000079aae0 [color="navy"];
+    node000000000079af30:se -> node000000000079aed0 [color="crimson"];
+    node000000000079a7f0:sw -> node000000000079ab70 [color="navy"];
+    node000000000079a7f0:se -> node000000000079a7c0 [color="crimson"];
+    node000000000079a9d0:sw -> node000000000079ae40 [color="navy"];
+    node000000000079a9d0:se -> node000000000079a6a0 [color="crimson"];
+    node000000000079a6a0:sw -> node000000000079ac00 [color="navy"];
+    node000000000079a6a0:se -> node000000000079aea0 [color="crimson"];
+    node000000000079a700:sw -> node000000000079a9d0 [color="navy"];
+    node000000000079a700:se -> node000000000079a6d0 [color="crimson"];
+    node000000000079a6d0:sw -> node000000000079a940 [color="navy"];
+    node000000000079a6d0:se -> node000000000079a8e0 [color="crimson"];
+    node000000000079a880:sw -> node000000000079a700 [color="navy"];
+    node000000000079a880:se -> node000000000079a8b0 [color="crimson"];
+    node000000000079a7c0:sw -> node000000000079a880 [color="navy"];
+    node000000000079a7c0:se -> node000000000079a760 [color="crimson"];
+    node00000000006b6290:sw -> node000000000079a7f0 [color="navy"];
+    node00000000006b6290:se -> node00000000006b62c0 [color="crimson"];
+    node000000000079a5f0:sw -> node000000000079a850 [color="navy"];
+    node000000000079a5f0:se -> node000000000079a820 [color="crimson"];
+    node000000000079a790:sw -> node000000000079a9a0 [color="navy"];
+    node000000000079a790:se -> node000000000079a670 [color="crimson"];
+    node000000000079a730:sw -> node000000000079a790 [color="navy"];
+    node000000000079a730:se -> node000000000079a970 [color="crimson"];
+    node000000000079a820:sw -> node000000000079a730 [color="navy"];
+    node000000000079a820:se -> node000000000079a910 [color="crimson"];
+    node00000000006b62c0:sw -> node000000000079a5f0 [color="navy"];
+    node00000000006b62c0:se -> node00000000006b62f0 [color="crimson"];
+    node000000000079a560:sw -> node000000000079a5c0 [color="navy"];
+    node000000000079a560:se -> node000000000079a590 [color="crimson"];
+    node00000000006b63b0:sw -> node000000000079a560 [color="navy"];
+    node00000000006b63b0:se -> node000000000079a530 [color="crimson"];
+    node00000000006b62f0:sw -> node00000000006b63b0 [color="navy"];
+    node00000000006b62f0:se -> node00000000006b6320 [color="crimson"];
+    node00000000006b6320:sw -> node00000000006b6380 [color="navy"];
+    node00000000006b6320:se -> node00000000006b6350 [color="crimson"];
+}
